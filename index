@@ -1,0 +1,26 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="text">
+          <h2> Задание JS</h2>
+            </div>
+      </div>
+
+    <br>
+    <div class="main">
+        <!-- <input type="text" id="first" size="60"> -->
+        <button> Начать !</button><br>
+        <h1 id="rez"></h1> <!--//ответ -->
+         <!-- <h1 id="time">Итог - <div id="min"></div> </h1> -->
+    </div>
+    
+  
+
+    <script src="zadanie.js"></script>
+</body>
+</html>
